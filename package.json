@@ -1,0 +1,19 @@
+{
+  "name": "jptv-react-chord-dictionary",
+  "version": "1.0.0",
+  "description": "JPTV React Chord Dictionary",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amypellegrini/jptv-react-chord-dictionary.git"
+  },
+  "author": "Amy Pellegrini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amypellegrini/jptv-react-chord-dictionary/issues"
+  },
+  "homepage": "https://github.com/amypellegrini/jptv-react-chord-dictionary#readme"
+}
